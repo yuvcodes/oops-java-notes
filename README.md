@@ -1,2 +1,5 @@
-# oops-java-notes
-Quick Revision For OOPS (Java)
+Hello Folks, 
+Feel free to access this repository for:
+
+- Revising OOPS in Java
+- with examples
