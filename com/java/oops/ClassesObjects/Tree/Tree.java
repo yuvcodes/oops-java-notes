@@ -1,10 +1,13 @@
 package com.java.oops.ClassesObjects.Tree;
 
+
 public class Tree {
 
     double heightFt;
     double trunkDiameterInches;
     TreeType treeType;
+    // static member
+    public static String trunkColor = "Brown";
 
     public Tree(double heightFt, double trunkDiameterInches, TreeType treeType) {
         this.heightFt = heightFt;

@@ -16,6 +16,8 @@ public class Main {
         Tree orangeTree = new Tree(101,2.5, TreeType.ORANGE);
         orangeTree.announceTallTree();
 
+        System.out.println("Accessing static member, which is trunk color: " + Tree.trunkColor);
+
         // Practise question
         Employee ram = new Employee("Ram", PerformanceRating.BEST, EmployeeLocation.PUNE, 25, 25000);
         ram.raiseSalary();
