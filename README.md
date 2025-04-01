@@ -8,7 +8,7 @@ Here, you'll find different topics related to Object-Oriented Programming (OOPs)
 
 - [ClassesObjects](com/java/oops/ClassesObjects/README.md) - Learn how to define class with attributes and use of constructor.
 - [Encapsulation](com/java/oops/Encapsulation/README.md) - Learn about encapsulation, access modifiers, ...
-- [Polymorphism](Polymorphism/README.md) - Learn about method overloading and method overriding.
+- [Inheritance](com/java/oops/Inheritance/README.md) - Learn about inheritance, types, extends keyword...
 - [Inheritance]() - 
 
 ## How to Navigate
