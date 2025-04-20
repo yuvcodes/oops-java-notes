@@ -16,3 +16,5 @@ Here, you'll find different topics related to Object-Oriented Programming (OOPs)
 Each topic has a **dedicated folder** containing code examples and explanations. Click on any of the links above to access the details.
 
 ---
+✨ **Give this repo a star if it helps you!**  
+🔗 [Connect on Twitter](https://x.com/bansal_yuv) | 🤝 Let’s grow in tech together!
